@@ -13,7 +13,7 @@ Maven Tests
 mvn test
 
 Explore Rest APIs
-The app defines following CRUD APIs.
+The app defines following  APIs.
 
 GET /api/register/users
 
