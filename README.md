@@ -17,7 +17,7 @@ The app defines following  APIs.
 
 GET /api/register/users
 
-POST /api/v1/users
+POST /api/v1/user
 
 GET /api/register/users/{userId}
 To test out this application, you need Maven to build the dependencies.
