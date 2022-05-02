@@ -52,7 +52,7 @@ Build Restful CRUD API for a blog using Spring Boot, H2.
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/coma123/Spring-Boot-Blog-REST-API.git
+git clone https://github.com/ramzakus/workstation.git
 ```
 
 **4. Run the app using maven**
