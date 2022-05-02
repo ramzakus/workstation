@@ -13,11 +13,11 @@ Maven Tests
 mvn test
 
 Explore Rest APIs
-The app defines following CRUD APIs.
+The app defines following  APIs.
 
 GET /api/register/users
 
-POST /api/v1/users
+POST /api/v1/user
 
 GET /api/register/users/{userId}
 To test out this application, you need Maven to build the dependencies.
@@ -52,7 +52,7 @@ Build Restful CRUD API for a blog using Spring Boot, H2.
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/coma123/Spring-Boot-Blog-REST-API.git
+git clone https://github.com/ramzakus/workstation.git
 ```
 
 **4. Run the app using maven**
