@@ -19,7 +19,7 @@ GET /api/register/users
 
 POST /api/v1/user
 
-GET /api/register/users/{userId}
+GET /api/register/user/{userId}
 To test out this application, you need Maven to build the dependencies.
 
 First, install the dependencies
