@@ -15,7 +15,7 @@ mvn test
 Explore Rest APIs
 The app defines following  APIs.
 
-GET /api/register/users
+GET /api/register/user
 
 POST /api/v1/user
 
@@ -70,15 +70,15 @@ The app defines following CRUD APIs.
 
 | Method | Url | Description | Sample Valid Request Body |
 | ------ | --- | ----------- | ------------------------- |
-| GET    | /api/register/users/{id} | Get user by id | |
-| POST   | /api/register/users | Add user Check if user data is available to register | [JSON](#usercreate) |
+| GET    | /api/register/user/{id} | Get user by id | |
+| POST   | /api/register/user | Add user Check if user data is available to register | [JSON](#usercreate) |
 
 
 Test them using postman or any other rest client.
 
 ## Sample Valid JSON Request Bodys
 
-##### <a id="usercreate">Create User -> /api/users</a>
+##### <a id="usercreate">Create User -> /api/user</a>
 ```json
 {
 	"userName": "USAF23456",
